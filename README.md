@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ichheissesimon
+- 👋 Hi, I’m @fastbouy
 - 👀 I’m interested in programming and testing out knew things.
-- 🌱 I’m currently learning javascript, C#, C++ and some Phython.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning javascript, C#, C++ and Phython.
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me 
 
 <!---
